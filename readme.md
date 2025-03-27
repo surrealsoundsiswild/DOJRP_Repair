@@ -26,7 +26,7 @@ A FiveM script that adds an interactive vehicle repair system using ox_target. P
 ```lua
 ensure ox_lib
 ensure ox_target
-ensure [your_resource_name]
+ensure [DOJRP_Repair]
 ```
 
 ## Usage
